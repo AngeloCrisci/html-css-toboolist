@@ -4,3 +4,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*Generics*/
+h1{
+    display: inline;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+
+
+/*Utilities*/
+
+.logo-container {
+    margin: 10px auto;
+    height: 80px;
+}
+
+
+
+/*Header*/
+
+#logo {
+    height: 80px;
+    vertical-align: middle;
+}
