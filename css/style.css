@@ -112,7 +112,7 @@ h2  {
 }
 
 .green {
-    background-color: rgb(54, 117, 54);
+    background-color: rgb(69, 196, 132);
     width: 85px;
     padding: 7px;
 }
@@ -120,11 +120,21 @@ h2  {
 .orange {
     background-color: orange;
     padding: 7px;
+    width: 60px;
 }
 
 .cross {
     border-color: red;
     color: red;
+}
+
+.pink {
+    background-color: rgb(194, 101, 116);
+}
+
+.light-green {
+    background-color: rgb(50, 143, 50);
+    width: 50px;
 }
 
 
