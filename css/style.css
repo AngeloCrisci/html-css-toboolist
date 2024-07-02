@@ -19,6 +19,12 @@ body {
     background-color: white;
 }
 
+h2  {
+    padding-top: 40px;
+    padding-left: 40px;
+
+}
+
 
 
 /*Utilities*/
@@ -61,6 +67,46 @@ body {
     margin-top: 15px;
     margin-bottom: 10px;
     
+}
+
+.circle {
+    margin-left: 40px;
+    margin-top: 20px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    border-color: green;
+    color: green;
+    padding-left: 2px;
+    padding-bottom: 2px;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.editorial {
+    background-color: rgb(32, 115, 223);
+    color: white;
+    width: 65px;
+    height: 30px;
+    border-radius: 45%;
+    border-style: none;
+    padding: 5px;
+    margin-left: 10px;
+    display: inline-block;
+
+}
+
+#purple {
+    background-color: purple;
+
 }
 
 
