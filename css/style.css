@@ -104,9 +104,27 @@ h2  {
 
 }
 
-#purple {
+.purple {
     background-color: purple;
+    width: 80px;
+    border-radius: 40%;
+    padding: 6px;
+}
 
+.green {
+    background-color: rgb(54, 117, 54);
+    width: 85px;
+    padding: 7px;
+}
+
+.orange {
+    background-color: orange;
+    padding: 7px;
+}
+
+.cross {
+    border-color: red;
+    color: red;
 }
 
 
